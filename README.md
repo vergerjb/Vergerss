@@ -1,1 +1,1 @@
-Primer fichero en el primer repositorio de Josep Verger
+This is a site to store documents for learning Web programmning : git, html , css, javascript, php
